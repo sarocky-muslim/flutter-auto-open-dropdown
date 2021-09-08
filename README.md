@@ -4,6 +4,9 @@ This project covers following features
 - after that the open list hide
 - and the dropdown will active for selection
 
+## Screenshot
+<img src="screenshot/before select.png" width="30%"> <img src="screenshot/after select.png" width="30%">
+
 ## Tools
 - Flutter
 - Dropdown Widget
